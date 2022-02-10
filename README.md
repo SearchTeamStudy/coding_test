@@ -1,1 +1,6 @@
-# coding_test
+# Coding Test 문제풀이
+
+## How to
+- 어떤 문제풀이 사이트를 사용해도 상관 없음.
+- 가급적 1일 1문제씩 풀이
+- 문제 풀이 후 Isuues 에 댓글 달기
